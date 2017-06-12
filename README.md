@@ -30,14 +30,14 @@ Week | 	Lecture No. | Date | Lecture Title|	HW due
 :---: | :---: | :---: | --- |	:---:
 1 | 01 | 06/05/17 | Optimization models and convexity |	
 1 |	02 | 06/07/17 | k-means and [clusterpath](https://www.di.ens.fr/~fbach/419_icmlpaper.pdf) |
-2 |	03 | 06/12/17 | Covariance estimation and PCA |
-2 |	04 | 06/14/17 | [Generalized low rank models](https://arxiv.org/abs/1410.0342) and [Matrix Completion](https://statweb.stanford.edu/~candes/papers/MatrixCompletion.pdf) |
-3 |	05 | 06/19/17 | LS/LAD regression and penalization |
-3 |	06 | 06/21/17 | SVM and classification | 1
-4 |	07 | 06/26/17 | Kernel Methods |
-4 |	08 | 06/28/17 | Feature engineering and encoding |
-5 |	09 | 07/03/17 | Deep learning and recent developments |
-5 |10 | 07/05/17 | Time Series Decomposition and Harmonic Regression | 2
+2 |	03 | 06/12/17 | Covariance Estimation |
+2 |	04 | 06/14/17 | Principal Components Analysis |
+3 |	05 | 06/19/17 | [Generalized low rank models](https://arxiv.org/abs/1410.0342) and [Matrix Completion](https://statweb.stanford.edu/~candes/papers/MatrixCompletion.pdf) |
+3 |	06 | 06/21/17 | LS/LAD regression and penalization | 1
+4 |	07 | 06/26/17 | SVM and classification |
+4 |	08 | 06/28/17 | Kernel Methods |
+5 |	09 | 07/03/17 | Feature engineering and encoding |
+5 |10 | 07/05/17 | Deep learning and recent developments | 2
 6 |	11 | 07/10/17 |	Portfolio optimization: Markowitz, Sharpe, and beyond |
 6 | 12 | 07/12/17 |	Constraints and [Sparsity on the Simplex](https://people.eecs.berkeley.edu/~elghaoui/Pubs/pilanciNips12.pdf) |
 7 |	13 | 07/17/17 | Robust Optimization I |
