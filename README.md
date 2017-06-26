@@ -36,15 +36,16 @@ Week | 	Lecture No. | Date | Lecture Title|	HW due
 3 |	05 | 06/19/17 | [Generalized low rank models](https://arxiv.org/abs/1410.0342) and [Matrix Completion](https://statweb.stanford.edu/~candes/papers/MatrixCompletion.pdf) |
 3 |	06 | 06/21/17 | LS/LAD regression and penalization | 1
 4 |	07 | 06/26/17 | SVM and classification |
-4 |	08 | 06/28/17 | Kernel Methods |
-5 |	09 | 07/03/17 | Feature engineering and encoding |
-5 |10 | 07/05/17 | Deep learning and recent developments | 2
-6 |	11 | 07/10/17 |	Portfolio optimization: Markowitz, Sharpe, and beyond |
-6 | 12 | 07/12/17 |	Constraints and [Sparsity on the Simplex](https://people.eecs.berkeley.edu/~elghaoui/Pubs/pilanciNips12.pdf) |
+4 |	08 | 06/28/17 | Kernel methods & feature engineering |
+5 |	09 | 07/03/17 | Deep learning and recent developments (Guest Lecture) |
+5 | — | 07/05/17 | _Lecture rescheduled to 7/14_ | 2
+6 |	10 | 07/10/17 |	Review of Machine Learning |
+6 | 11| 07/12/17 |	Portfolio optimization: Markowitz, Sharpe, and beyond |
+6 | 12| 07/14/17 | Constraints and [Sparsity on the Simplex](https://people.eecs.berkeley.edu/~elghaoui/Pubs/pilanciNips12.pdf) |
 7 |	13 | 07/17/17 | Robust Optimization I |
-7 | 14 | 07/19/17 | Robust Optimization II	| 3
-8 | 15 | 07/24/17 | (Optional) Review I |
-8 |  16 | 07/26/17 | (Optional) Review II |
+7 | 14 | 07/19/17 | Robust Optimization II | 3
+8 | 15 | 07/24/17 | Multi-Period Models |
+8 |  16 | 07/26/17 | Review of Portfolio Optimization |
 9 | — | 08/02/17 | Final | 4
 
 ## Reference Texts
