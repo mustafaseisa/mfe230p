@@ -75,5 +75,5 @@ This term we will be using Piazza for class discussion. Find our class page [her
 Title | Name | Email Address | Office Hour
 :---: | :---: | :---: | :---:
 Professor | [Laurent El Ghaoui](http://www.eecs.berkeley.edu/~elghaoui/) | `elghaoui@berkeley.edu` | Wednesday 3-4PM in F320
-Assistant | [Mustafa S Eisa](http://mustafaseisa.com/) | `m.eisa@berkeley.edu` | Friday 4-5PM in S276
+Assistant | [Mustafa S Eisa](http://mustafaseisa.com/) | `m.eisa@berkeley.edu` | by appointment
 MFE Program | — | `mfe@haas.berkeley.edu` | —
